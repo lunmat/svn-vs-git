@@ -1,9 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "2.6.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "name": "svn-vs-git.js",
+  "version": "0.0.1",
+  "description": "Subversion vs Git",
+  "homepage": "https://github.com/lunmat/svn-vs-git.js",
   "scripts": {
     "test": "grunt test",
     "start": ""
@@ -15,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/lunmat/svn-vs-git.git"
   },
   "engines": {
     "node": "~0.10.0"
